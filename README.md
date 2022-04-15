@@ -1,14 +1,18 @@
-<!--
-**psjfoster/psjfoster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# **psjfoster**
+I am teaching myself to code:  
 
-Here are some ideas to get you started:
+🤖 Automation  
+👷‍♂️ HTML  
+🎨 CSS  
+🍵 Java  
+🦾 Javascript  
+💾 MySQL  
+🏢 Office add-ins  
+🥧 Raspberry Pi  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Project ideas
+* Automating time logs on Breathe HR
+* Calendar/appointment/task tracking for personal/family use
+* RPi Christmas LEDs for our house display 2022
+* USB HID as a configurable macro-input device for home/work projects
+* Easy creation of system-agnostic BMS graphics backdrops, ready to be bound to IO
